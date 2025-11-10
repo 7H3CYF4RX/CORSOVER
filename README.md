@@ -63,7 +63,7 @@ pip install aiohttp rich asyncio pathlib
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/virtual-viruz/corsover.git
+   git clone https://github.com/7H3CYF4RX/corsover.git
    cd corsover
    ```
 
@@ -253,8 +253,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/virtual-viruz/corsover/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/virtual-viruz/corsover/discussions)  
+- **Issues**: [GitHub Issues](https://github.com/7H3CYF4RX/corsover/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/7H3CYF4RX/corsover/discussions)  
 - **Security**: For security-related issues, please create a security advisory on GitHub
 
 ## 🏆 Acknowledgments
